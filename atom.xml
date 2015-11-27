@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://meyes.github.io/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
-  <updated>2015-11-17T16:42:28+08:00</updated>
+  <updated>2015-11-27T19:27:24+08:00</updated>
   <id>http://meyes.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,6 +21,8 @@
     <content type="html"><![CDATA[<h1>啊大炮的小窝</h1>
 
 <h2>肥肥</h2>
+
+<blockquote><p>啊肥</p></blockquote>
 ]]></content>
   </entry>
   
