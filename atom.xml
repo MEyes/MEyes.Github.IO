@@ -4,7 +4,7 @@
   <title><![CDATA[我的博客]]></title>
   <link href="http://meyes.github.io/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
-  <updated>2015-11-28T19:59:15+08:00</updated>
+  <updated>2015-12-01T15:15:00+08:00</updated>
   <id>http://meyes.github.io/</id>
   <author>
     <name><![CDATA[Wang Bin]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Xx]]></title>
+    <link href="http://meyes.github.io/blog/2015/12/01/xx/"/>
+    <updated>2015-12-01T15:14:40+08:00</updated>
+    <id>http://meyes.github.io/blog/2015/12/01/xx</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jkxy]]></title>
