@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[我的博客]]></title>
-  <link href="http://meyes.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Scrum | 我的博客]]></title>
+  <link href="http://meyes.github.io/blog/categories/scrum/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
   <updated>2016-01-18T23:37:32+08:00</updated>
   <id>http://meyes.github.io/</id>
