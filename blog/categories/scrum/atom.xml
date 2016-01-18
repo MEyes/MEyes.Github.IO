@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Scrum | 我的博客]]></title>
   <link href="http://meyes.github.io/blog/categories/scrum/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
-  <updated>2016-01-18T23:40:12+08:00</updated>
+  <updated>2016-01-18T23:55:28+08:00</updated>
   <id>http://meyes.github.io/</id>
   <author>
     <name><![CDATA[Wang Bin]]></name>
@@ -237,11 +237,11 @@
 
 <h1>3.Worktile的使用规范</h1>
 
-<p>Worktile在敏捷开发中主要扮演了任务归档角色，因为Worktile 提供了非常灵活的任务列表以及任务（User Story、Task）创建、分配等，如下所示：<img src="./media/image1.png" alt="" /></p>
+<p>Worktile在敏捷开发中主要扮演了任务归档角色，因为Worktile 提供了非常灵活的任务列表以及任务（User Story、Task）创建、分配等，如下所示：<img src="/images/image1.png" alt="" /></p>
 
 <p>敏捷白板作为Worktile的补充，可以实时的跟踪任务，绘制燃尽图等，如下所示：</p>
 
-<p><img src="./media/image2.png" alt="" /></p>
+<p><img src="/images/image2.png" alt="" /></p>
 
 <h2>3.1 要求</h2>
 
