@@ -4,7 +4,7 @@
   <title><![CDATA[我的博客]]></title>
   <link href="http://meyes.github.io/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
-  <updated>2016-01-18T23:55:28+08:00</updated>
+  <updated>2016-01-19T00:02:27+08:00</updated>
   <id>http://meyes.github.io/</id>
   <author>
     <name><![CDATA[Wang Bin]]></name>
@@ -27,17 +27,17 @@
 
 <p>我们大部分人都学过瀑布开发模型，它是以文档为驱动的，为什么呢？因为在瀑布的整个开发过程中，要写大量的文档，把需求文档写出来后，开发员都是根据文档进行开发的，一切以文档为依据，开发完成后将进行测试，评审，最终部署到正式环境。瀑布流模式每一步往往依赖前一环节的结果，一旦某个环节搁置了，有可能会影响整个软件开发进度。瀑布流模型如下所示：</p>
 
-<p><img src="./media/image1.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image1.png" alt="" /></p>
 
 <p>而敏捷开发它只写有必要的文档，或尽量少写文档，敏捷开发注重的是人与人之间，面对面的交流，所以它强调以人为核心。同时，敏捷开发以冲刺（Sprint）的形式在最短的时间里完成一次计划的迭代，包括计划，实施，测试，评审，</p>
 
-<p><img src="./media/image2.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image2.png" alt="" /></p>
 
 <h1>什么是Scrum</h1>
 
 <p>Scrum是一种迭代式增量软件开发过程，通常用于敏捷软件开发。在这个框架中，整个开发过程由若干个短的迭代周期组成，一个短的迭代周期称为一个Sprint，每个Sprint的建议长度是2到4周(互联网产品研发可以使用1周的Sprint)。在Scrum中，使用产品Backlog来管理产品的需求，产品Backlog是一个按照商业价值排序的需求列表，列表条目的体现形式通常为用户故事。Scrum团队总是先开发对客户具有较高价值的需求。在Sprint中，Scrum团队从产品Backlog中挑选最高优先级的需求进行开发。挑选的需求在Sprint计划会议上经过讨论、分析和估算得到相应的任务列表，我们称它为Sprint Backlog。在每个迭代结束时，Scrum团队将递交潜在可交付的产品增量。 Scrum起源于软件开发项目，但它适用于任何复杂的或是创新性的项目，Scrum的流程图如下所示：</p>
 
-<p><img src="./media/image3.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image3.png" alt="" /></p>
 
 <h1>什么是Sprint</h1>
 
@@ -110,11 +110,11 @@
 
 <p>了解了Scrum开发流程之后，我们使用Worktile 和敏捷白板这两个工具来进行敏捷管理，使用Worktile 可以进行任务的分配、归档，如下所示：</p>
 
-<p><img src="./media/image4.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image4.png" alt="" /></p>
 
 <p>使用敏捷白板来跟踪任务，如下所示:</p>
 
-<p><img src="./media/image5.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image5.png" alt="" /></p>
 
 <p>值得注意的是，当完成任务时，务必要及时更新状态，以便于团队了解整体进度。</p>
 ]]></content>
@@ -237,11 +237,11 @@
 
 <h1>3.Worktile的使用规范</h1>
 
-<p>Worktile在敏捷开发中主要扮演了任务归档角色，因为Worktile 提供了非常灵活的任务列表以及任务（User Story、Task）创建、分配等，如下所示：<img src="http://meyes.github.io/images/image1.png" alt="" /></p>
+<p>Worktile在敏捷开发中主要扮演了任务归档角色，因为Worktile 提供了非常灵活的任务列表以及任务（User Story、Task）创建、分配等，如下所示：<img src="http://meyes.github.io/Images/image1.png" alt="" /></p>
 
 <p>敏捷白板作为Worktile的补充，可以实时的跟踪任务，绘制燃尽图等，如下所示：</p>
 
-<p><img src="http://meyes.github.io/images/image2.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image2.png" alt="" /></p>
 
 <h2>3.1 要求</h2>
 
@@ -345,7 +345,7 @@
 
 <p>当添加注释时，添加方式如下图所示：</p>
 
-<p><img src="./media/image3.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image3.png" alt="" /></p>
 
 <h2>6.2 类型、字段、属性、方法、事件的命名</h2>
 
@@ -369,14 +369,14 @@
 </ul>
 
 
-<p><img src="./media/image4.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image4.png" alt="" /></p>
 
 <ul>
 <li>第二步，进入“文本编辑器” “C#” “格式设置” “新行”，确保左侧所有复选框中的被选择，如下图所示：</li>
 </ul>
 
 
-<p><img src="./media/image5.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image5.png" alt="" /></p>
 
 <ul>
 <li>第三步，点击“确定”，完成设置。</li>
@@ -390,14 +390,14 @@
 </ul>
 
 
-<p><img src="./media/image6.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image6.png" alt="" /></p>
 
 <ul>
 <li>第二步，在行结束选择使用Unix(LF)最为换行符</li>
 </ul>
 
 
-<p><img src="./media/image7.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image7.png" alt="" /></p>
 
 <h2>6.6 使用Tab作为缩进，并设置缩进大小为4</h2>
 
@@ -406,14 +406,14 @@
 </ul>
 
 
-<p><img src="./media/image4.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image4.png" alt="" /></p>
 
 <ul>
 <li>第二步，进入“文本编辑器”，“C#”，“制表符”，如下图所示，设置制表符。</li>
 </ul>
 
 
-<p><img src="./media/image8.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image8.png" alt="" /></p>
 
 <ul>
 <li>第三步，点击“确定”，完成设置。</li>
@@ -442,7 +442,7 @@
 </ul>
 
 
-<p><img src="./media/image9.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image9.png" alt="" /></p>
 
 <ul>
 <li>注意ProductType是私有类型，不管类型是公有的还是私有的，其命名总是采用Pascal风格。</li>
@@ -456,7 +456,7 @@
 </ul>
 
 
-<p><img src="./media/image10.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image10.png" alt="" /></p>
 
 <h2>6.11 私有方法、受保护方法，仍使用Pascal风格命名</h2>
 
@@ -465,13 +465,13 @@
 </ul>
 
 
-<p><img src="./media/image11.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image11.png" alt="" /></p>
 
 <h2>6.12 如果if语句内容只有一行，可以不加花括号，但是必须和if语句位于同一行</h2>
 
 <hr />
 
-<p><img src="./media/image12.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image12.png" alt="" /></p>
 
 <h2>6.13 调用类型内部其他成员，需加this；调用父类成员，需加base</h2>
 
@@ -482,7 +482,7 @@
 </ul>
 
 
-<p><img src="./media/image13.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image13.png" alt="" /></p>
 
 <h2>6.14 类型内部的私有和受保护字段，使用Camel风格命名，但加“_”前缀</h2>
 
@@ -493,7 +493,7 @@
 </ul>
 
 
-<p><img src="./media/image14.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image14.png" alt="" /></p>
 
 <h2>6.15 不能出现公有字段</h2>
 
@@ -514,7 +514,7 @@
 </ul>
 
 
-<p><img src="./media/image15.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image15.png" alt="" /></p>
 
 <h2>6.17 委托和事件的命名</h2>
 
@@ -526,7 +526,7 @@
 </ul>
 
 
-<p><img src="./media/image16.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image16.png" alt="" /></p>
 
 <h2>6.18 返回bool类型的方法、属性的命名</h2>
 
@@ -537,7 +537,7 @@
 </ul>
 
 
-<p><img src="./media/image17.png" alt="" /></p>
+<p><img src="http://meyes.github.io/Images/image17.png" alt="" /></p>
 
 <h2>6.19 常见集合类型后缀命名</h2>
 
