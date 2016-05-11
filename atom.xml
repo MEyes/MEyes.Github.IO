@@ -4,7 +4,7 @@
   <title><![CDATA[我的博客]]></title>
   <link href="http://meyes.github.io/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
-  <updated>2016-05-11T23:13:53+08:00</updated>
+  <updated>2016-05-11T23:22:11+08:00</updated>
   <id>http://meyes.github.io/</id>
   <author>
     <name><![CDATA[Wang Bin]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Umvvm]]></title>
-    <link href="http://meyes.github.io/blog/2016/05/11/umvvm/"/>
-    <updated>2016-05-11T00:00:00+08:00</updated>
-    <id>http://meyes.github.io/blog/2016/05/11/umvvm</id>
-    <content type="html"><![CDATA[<h1>谈谈 MVVM 设计模式在 Unity 3D 中的设计与实现</h1>
-
-<p>谈起 MVVM 设计模式，可能第一映像你会想到 WPF/Sliverlight，他们提供了的数据绑定（Data Binding），命令（Command）等功能，这让 MVVM 模式得到很好的实现。</p>
+    <title type="html"><![CDATA[浅谈 MVVM 设计模式在 Unity 3D 中的设计与实施]]></title>
+    <link href="http://meyes.github.io/blog/2016/05/18/Unity-MVVM/"/>
+    <updated>2016-05-18T23:27:45+08:00</updated>
+    <id>http://meyes.github.io/blog/2016/05/18/Unity-MVVM</id>
+    <content type="html"><![CDATA[<p>谈起 MVVM 设计模式，可能第一映像你会想到 WPF/Sliverlight，他们提供了的数据绑定（Data Binding），命令（Command）等功能，这让 MVVM 模式得到很好的实现。<!--more--></p>
 
 <p>MVVM 设计模式顾名思义，通过分离关注点，各司其职。通过 Data Binding 可达到数据的双向绑定，而命令 Command 更是将传统的 Code Behind 事件独立到 ViewModel 中。</p>
 
