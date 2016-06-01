@@ -4,7 +4,7 @@
   <title><![CDATA[我的博客]]></title>
   <link href="http://meyes.github.io/atom.xml" rel="self"/>
   <link href="http://meyes.github.io/"/>
-  <updated>2016-06-01T23:11:52+08:00</updated>
+  <updated>2016-06-01T23:13:54+08:00</updated>
   <id>http://meyes.github.io/</id>
   <author>
     <name><![CDATA[Wang Bin]]></name>
@@ -18,7 +18,7 @@
     <link href="http://meyes.github.io/blog/2016/06/01/overview-of-solid/"/>
     <updated>2016-06-01T23:10:42+08:00</updated>
     <id>http://meyes.github.io/blog/2016/06/01/overview-of-solid</id>
-    <content type="html"><![CDATA[<blockquote><p>SOLID 是面向对象设计5大重要原则的首字母缩写，当我们设计类和模块时，遵守 SOLID 原则可以让软件更加健壮和稳定。那么，什么是 SOLID 原则呢？本篇文章我将谈谈 SOLID 原则在软件开发中的具体使用。</p></blockquote>
+    <content type="html"><![CDATA[<blockquote><p>SOLID 是面向对象设计5大重要原则的首字母缩写，当我们设计类和模块时，遵守 SOLID 原则可以让软件更加健壮和稳定。那么，什么是 SOLID 原则呢？本篇文章我将谈谈 SOLID 原则在软件开发中的具体使用。<!--more--></p></blockquote>
 
 <h2>单一职责原则（SRP）</h2>
 
